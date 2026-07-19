@@ -1,0 +1,13 @@
+{
+    "job_name": "2026-07-19__14-56-41",
+    "agents": [
+        {
+            "name": "nop"
+        }
+    ],
+    "tasks": [
+        {
+            "path": "/Users/shrutivishwakarma/Desktop/log-report"
+        }
+    ]
+}
